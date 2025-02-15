@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.rideit.enumclass.PaymentStatus"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.rideit.dao.UserEntityDao"/>
+    <fullyQualifiedTypeName name="org.apache.tomcat.util.net.openssl.ciphers.Authentication"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="com.rideit.dto.AdminRegisterDto"/>
+    <fullyQualifiedTypeName name="com.rideit.enumclass.Role"/>
+</qualifiedTypeNameHistroy>

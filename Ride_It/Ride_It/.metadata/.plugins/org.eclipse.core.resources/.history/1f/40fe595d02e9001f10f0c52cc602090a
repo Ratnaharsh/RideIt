@@ -1,0 +1,5 @@
+package com.rideit.dto;
+
+public class AdminRegisterDto {
+
+}
